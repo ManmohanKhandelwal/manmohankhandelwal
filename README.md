@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Sales Analytics WebApp](http://sales-dashboard-ten-murex.vercel.app)
 
-- 🌱 I’m currently learning **AWS Basics, ML from Stanford Online**
-
 - 👯 I’m looking to collaborate on [Mr. Chatur](https://www.mrchatur.in/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManmohanKhandelwal/](https://github.com/ManmohanKhandelwal/)
